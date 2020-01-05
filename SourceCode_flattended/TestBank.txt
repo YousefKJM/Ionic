@@ -1,0 +1,1164 @@
+Java is an object-oriented programming language. An object-oriented language:
+
+(a)Uses structured programming.
+
+(b)Views a program as consisting of objects which communicate through interactions.
+
+(c)Functionally breaks down problems into smaller, more manageable problems.
+
+(d)All of the above.
+
+B
+
+In Java, the equal sign is used as the ___________ operator.
+
+(a)increment
+
+(b)decrement
+
+(c)assignment
+
+(d)negation
+
+C
+
+In Java, source code is compiled into object code called ______________.
+
+(a)Bit-code
+
+(b)Class code
+
+(c)Method code
+
+(d)Byte-code
+
+D
+
+The hardest kind of error to detect in a computer program is a:
+
+(a)Syntax error
+
+(b)Run-time error
+
+(c)Logic error
+
+(d)All of the above
+
+C
+
+Identify the invalid Java identifier.
+
+(a)1Week
+
+(b)Week1
+
+(c)amountDue
+
+(d)amount_due
+
+A
+
+What is the value of the variable amountDue? 
+double price = 2.50; 
+double quantity = 5; 
+double amountDue = 0; 
+amountDue = price * quantity;
+
+(a)12
+
+(b)12.25
+
+(c)12.5
+
+(d)13
+
+C
+
+What is the value of 7.52e-5?
+
+(a)752000.0
+
+(b)0.0000752
+
+(c)0.000752
+
+(d)0.00752
+
+B
+
+What is the Java expression for 4a2 + 2b * c?
+
+(a)(4 * a) + (2 * b) * c
+
+(b)(4 * a * a) + ((2 * b) * c)
+
+(c)((4 * a * a) + (2 * b)) * c
+
+(d)(4 + a * a) + ((2 + b) * c)
+
+B
+
+What is the Java expression for 27xy?
+
+(a)27 + (x * y)
+
+(b)27 * (x + y)
+
+(c)27 * x * y
+
+(d)27x * y
+
+C
+
+The value of the expression (int) 27.6 evaluates to:
+
+(a)28
+
+(b)27
+
+(c)26
+
+(d)None of the above.
+
+B
+
+Which operator is used to concatenate two strings?
+
+(a)+
+
+(b)�
+
+(c)*
+
+(d)/
+
+A
+
+Which operator returns the remainder of integer division?
+
+(a)%
+
+(b)/
+
+(c)*
+
+(d)none of the above
+
+A
+
+What is the value of the variable c in the statements that follow?
+String phrase = "Make hay while the sun is shining.";
+char c = phrase.charAt(10);
+
+(a)w
+
+(b)h
+
+(c)i
+
+(d)None of the above
+
+B
+
+The escape sequence the represents the new-line character is:
+
+(a)\r
+
+(b)\t
+
+(c)\n
+
+(d)\\
+
+C
+
+The syntax that declares a Java named constant named SALES_TAX is:
+
+(a)double SALES_TAX = 7.50;
+
+(b)public double SALES_TAX = 7.50;
+
+(c)public static double SALES_TAX = 7.50;
+
+(d)public static final double SALES_TAX = 7.50;
+
+D
+
+In Java, a block comment is delimited by:
+
+(a)*/ /*
+
+(b)/* /*
+
+(c)/* */
+
+(d)*/ */
+
+C
+
+To mark a block comment for inclusion in the Javadoc documentation, the block must be delimited by:
+
+(a)/** */
+
+(b)*/* */
+
+(c)**/ /*
+
+(d)**/ */
+
+A
+
+Valid arguments to the System.out object�s println method include:
+
+(a) �Anything with double quotes�
+
+(b) String variables
+
+(c) Variables of type int
+
+(d) All of the above
+
+D
+
+Which statement or group of statements produces the output: Java programming is fun! 
+
+(a)System.out.print(Java programming); 
+System.out.print(is fun!);
+
+(b)System.out.println(Java programming is fun!);
+
+(c)System.out.println(�Java programming�); 
+System.out.println(� is fun!�);
+
+(d)System.out.print(�Java programming�) 
+System.out.println(� is fun!�);
+
+D
+
+If a hyphen is added after the % in a format specifier, the output will be _________.
+
+(a)Left justified
+
+(b)Right justified
+
+(c)Centered
+
+(d)None of the above
+
+A
+
+The statement: System.out.printf("%6.2f", 597.7231); displays:
+
+(a)597.723
+
+(b)597.72
+
+(c)000597.72
+
+(d)None of the above
+
+B
+
+The Java method printf is based on the ________ language.
+
+(a)Pascal
+
+(b)C++
+
+(c)C
+
+(d)ADA
+
+C
+
+The class NumberFormat allows you to specify a constant representing which country�s currency format should be used. To use this constant you must import:
+
+(a)java.util.Locale
+
+(b)java.util.Currency
+
+(c)java.util.Properties
+
+(d)None of the above.
+
+A
+
+Standard code libraries in Java are called:
+
+(a)Methods
+
+(b)Classes
+
+(c)Packages
+
+(d)Statements
+
+C
+
+What does the following code output? 
+DecimalFormat percent = new DecimalFormat("0.00%"); 
+System.out.println(percent.format(0.308));
+
+(a)3.080%
+
+(b)30.80%
+
+(c).0308%
+
+(d)308.0%
+
+B
+
+What does the following code output?
+DecimalFormat dfQuestion = new DecimalFormat("#0.##E0");
+System.out.println(dfQuestion.format(12.7896987));
+
+(a)12.79E0
+
+(b)12.8E0
+
+(c)1.28E1
+
+(d).13E2
+
+A
+
+What Java package includes the class Scanner?
+
+(a)awt
+
+(b)swing
+
+(c)io
+
+(d)util
+
+D
+
+An if selection statement executes if and only if:
+
+(a)the Boolean condition evaluates to false.
+
+(b)the Boolean condition evaluates to true.
+
+(c)the Boolean condition is short-circuited.
+
+(d)none of the above.
+
+B
+
+A compound statement is enclosed between:
+
+(a)[ ]
+
+(b){ }
+
+(c)( )
+
+(d)< >
+
+B
+
+A multi-way if-else statement
+
+(a)allows you to choose one course of action.
+
+(b)always executes the else statement.
+
+(c)allows you to choose among alternative courses of action.
+
+(d)executes all Boolean conditions that evaluate to true.
+
+C
+
+The controlling expression for a switch statement includes all of the following types except:
+
+(a)char
+
+(b)int
+
+(c)byte
+
+(d)double
+
+D
+
+To compare two strings lexicographically the String method ____________ should be used.
+
+(a)equals
+
+(b)equalsIgnoreCase
+
+(c)compareTo
+
+(d)==
+
+C
+
+When using a compound Boolean expression joined by an && (AND) in an if statement:
+
+(a)Both expressions must evaluate to true for the statement to execute.
+
+(b)The first expression must evaluate to true and the second expression must evaluate to false for the statement to execute.
+
+(c)The first expression must evaluate to false and the second expression must evaluate to true for the statement to execute.
+
+(d)Both expressions must evaluate to false for the statement to execute.
+
+A
+
+The OR operator in Java is represented by:
+
+(a)!
+
+(b)&&
+
+(c)| |
+
+(d)None of the above
+
+C
+
+The negation operator in Java is represented by:
+
+(a)!
+
+(b)&&
+
+(c)| |
+
+(d)None of the above
+
+A
+
+The ____________ operator has the highest precedence.
+
+(a)*
+
+(b)dot
+
+(c)+=
+
+(d)decrement
+
+B
+
+The association of operands with operators is called ______________.
+
+(a)assignment
+
+(b)precedence
+
+(c)binding
+
+(d)lexicographic ordering
+
+C
+
+he looping mechanism that always executes at least once is the _____________ statement.
+
+(a)if-else
+
+(b)do-while
+
+(c)while
+
+(d)for
+
+B
+
+A mixture of programming language and human language is known as:
+
+(a)Algorithms
+
+(b)Recipes
+
+(c)Directions
+
+(d)Pseudocode
+
+D
+
+When the number of repetitions are known in advance, you should use a ___________ statement.
+
+(a)while
+
+(b)do�while
+
+(c)for
+
+(d)None of the above
+
+C
+
+A ___________ statement terminates the current iteration of a loop.
+
+(a)Break
+
+(b)Continue
+
+(c)Switch
+
+(d)Assert
+
+B
+
+Common loop errors are:
+
+(a)Off-by-one
+
+(b)Infinite loops
+
+(c)Both a and b
+
+(d)None of the above
+
+C
+
+To terminate a program, use the Java statement:
+
+(a)System.quit(0);
+
+(b)System.end(0);
+
+(c)System.abort(0);
+
+(d)System.exit(0);
+
+D
+
+Good debugging techniques include:
+
+(a)Inserting output statements in your program.
+
+(b)Tracing variables
+
+(c)Using an IDE debugger
+
+(d)All of the above
+
+D
+
+The new operator:
+
+(a)allocates memory
+
+(b)is used to create an object of a class
+
+(c)associates an object with a variable that names it.
+
+(d)All of the above.
+
+D
+
+A method that performs some action other than returning a value is called a __________ method.
+
+(a)null
+
+(b)void
+
+(c)public
+
+(d)private
+
+B
+
+47) The body of a method that returns a value must contain at least one _________ statement.
+
+(a)void
+
+(b)invocation
+
+(c)throws
+
+(d)return
+
+D
+
+A variable whose meaning is confined to an object of a class is called:
+
+(a)instance variable
+
+(b)local variable
+
+(c)global variable
+
+(d)none of the above
+
+A
+
+A variable whose meaning is confined to a method definition is called an/a
+
+(a)instance variable
+
+(b)local variable
+
+(c)global variable
+
+(d)none of the above
+
+B
+
+In Java, a block is delimited by:
+
+(a)( )
+
+(b)/* */
+
+(c)� �
+
+(d){ }
+
+D
+
+In Java, call-by-value is only used with:
+
+(a)objects
+
+(b)primitive types
+
+(c)this
+
+(d)all of the above
+
+B
+
+The parameter this refers to
+
+(a)instance variables
+
+(b)local variables
+
+(c)global variables
+
+(d)the calling object
+
+D
+
+When you want the parameters in a method to be the same as the instance variables you can use the _____ parameter.
+
+(a)String
+
+(b)hidden
+
+(c)default
+
+(d)this
+
+D
+
+Two methods that are expected to be in all Java classes are:
+
+(a)getName and setName
+
+(b)toString and equals
+
+(c)compareTo and charAt
+
+(d)toLowerCase and toUpperCase
+
+B
+
+A program whose only task is to test a method is called a:
+
+(a)driver program
+
+(b)stub
+
+(c)bottom-up test
+
+(d)recursive method
+
+A
+
+Java has a way of officially hiding details of a class definition. To hide details, you mark them as _________.
+
+(a)public
+
+(b)protected
+
+(c)private
+
+(d)all of the above
+
+C
+
+A set method is:
+
+(a)an accessor method
+
+(b)a mutator method
+
+(c)a recursive method
+
+(d)none of the above
+
+B
+
+Accessor methods:
+
+(a)return something equivalent to the value of an instance variable.
+
+(b)promotes abstraction
+
+(c)both A and B
+
+(d)none of the above
+
+C
+
+A more eloquent approach in implementing mutator methods is to return a ________ value.
+
+(a)int
+
+(b)char
+
+(c)boolean
+
+(d)double
+
+C
+
+A _________ states what is assumed to be true when the method is called.
+
+(a)prescript
+
+(b)postscript
+
+(c)precondition
+
+(d)postcondition
+
+C
+
+The name of a method and the list of ________ types in the heading of the method definition is called the method signature.
+
+(a)parameter
+
+(b)argument
+
+(c)return
+
+(d)primitive
+
+A
+
+A static method is one that can be used with a _____________.
+
+(a)instance variable
+
+(b)local variable
+
+(c)global variable
+
+(d)the class name as a calling object
+
+D
+
+Static variables are often used:
+
+(a)in arithmetic expressions
+
+(b)to communicate between objects
+
+(c)within looping structures
+
+(d)all of the above
+
+B
+
+Only ______ copy/copies of a static variable are available to objects of a class.
+
+(a)one
+
+(b)two
+
+(c)three
+
+(d)none of the above
+
+A
+
+All of these are methods of Java�s Math class except:
+
+(a)pow
+
+(b)min
+
+(c)random
+
+(d)toString
+
+D
+
+The Math method that returns the nearest whole number that is greater than or equal to its argument is:
+
+(a)round
+
+(b)ceil
+
+(c)floor
+
+(d)all of the above
+
+B
+
+All of the following are wrapper classes except:
+
+(a)String
+
+(b)Integer
+
+(c)Character
+
+(d)Double
+
+A
+
+Converting from a value of primitive type to a corresponding object of its associated wrapper class is called:
+
+(a)Boxing
+
+(b)Unboxing
+
+(c)Converting
+
+(d)Reinstantiating
+
+A
+
+The conversion from an object of a wrapper class to a value of its associated primitive type is called:
+
+(a)Boxing
+
+(b)Unboxing
+
+(c)Converting
+
+(d)Reinstantiating
+
+B
+
+The method trim of the String class trims off:
+
+(a)Leading white space
+
+(b)Trailing white space
+
+(c)Leading and trailing white space
+
+(d)Blanks
+
+C
+
+An example of secondary memory is:
+
+(a)RAM
+
+(b)ROM
+
+(c)hard disk
+
+(d)all of the above
+
+C
+
+When you use the assignment operator with variables of a class type, you are assigning a:
+
+(a)value
+
+(b)primitive type
+
+(c)local variable
+
+(d)reference
+
+D
+
+null can be used:
+
+(a)to indicate a variable has no real value
+
+(b)in a Boolean expression with ==
+
+(c)as a placeholder
+
+(d)all of the above
+
+D
+
+A copy constructor has _________ parameters.
+
+(a)zero
+
+(b)one
+
+(c)two
+
+(d)three
+
+B
+
+A condition that allows a programmer to circumvent the private modifier and change the private instance variable is called:
+
+(a)a copy constructor
+
+(b)a privacy leak
+
+(c)a class invariant
+
+(d)an anonymous object
+
+B
+
+A class that contains public methods that can change the data in the object of a class is called a/an:
+
+(a)mutable class
+
+(b)immutable class
+
+(c)invariant class
+
+(d)none of the above
+
+A
+
+To create a package, you must add a package statement at the ____________ of each class file.
+
+(a)beginning
+
+(b)end
+
+(c)before each method signature
+
+(d)after the import statements
+
+A
+
+The program included in the Java SDK that allows a programmer to separate the class interface from the class implementation is called:
+
+(a)javac
+
+(b)java
+
+(c)javadoc
+
+(d)none of the above
+
+C
+
+Javadoc requires a comment to be delimited by _________ to be included in the extracted class interface.
+
+(a)// //
+
+(b)/* */
+
+(c)/** */
+
+(d)� �
+
+C
+
+The individual variables that together make up the array are referred to as:
+
+(a)indexed variables
+
+(b)subscripted variables
+
+(c)elements of the array
+
+(d)all of the above
+
+D
+
+What is the correct expression for accessing the 5th element in an array named colors?
+
+(a)colors[3]
+
+(b)colors[4]
+
+(c)colors[5]
+
+(d)colors[6]
+
+B
+
+Consider the following array: myArray[0]=7 myArray[1]=9 myArray[2]=-3 myArray[3]=6 myArray[4]=1 myArray[5]=-1 What is the value of myArray[myArray[1] � myArray[0]]
+
+(a)7
+
+(b)9
+
+(c)-3
+
+(d)6
+
+C
+
+The subscript of the first indexed variable in an array is:
+
+(a)0
+
+(b)1
+
+(c)2
+
+(d)3
+
+A
+
+The correct syntax for accessing the length of an array named Numbers is:
+
+(a)Numbers.length()
+
+(b)Numbers.length
+
+(c)both A and B
+
+(d)none of the above
+
+B
+
+An ArrayIndexOutOfBounds error is a:
+
+(a)compiler error
+
+(b)syntax error
+
+(c)logic error
+
+(d)all of the above
+
+C
+
+Which of the following initializer lists correctly initializes the indexed variables of an array named myDoubles?
+
+(a)double myDoubles[double] = {0.0, 1.0, 1.5, 2.0, 2.5};
+
+(b)double myDoubles[5] = new double(0.0, 1.0, 1.5, 2.0, 2.5);
+
+(c)double[] myDoubles = {0.0, 1.0, 1.5, 2.0, 2.5};
+
+(d)array myDoubles[double] = {0.0, 1.0, 1.5, 2.0, 2.5};
+
+C
+
+The base type of an array may be all of the following but:
+
+(a)string
+
+(b)boolean
+
+(c)long
+
+(d)all of these may be a base type of an array.
+
+D
+
+The correct syntax for passing an array as an argument in a method is:
+
+(a)a[]
+
+(b)a()
+
+(c)a
+
+(d)a[0]..a[a.length]
+
+C
+
+Partially filled arrays require:
+
+(a)a variable to track the number of array positions used
+
+(b)the use of local variables
+
+(c)the use of global variables
+
+(d)all of the above
+
+A
+
+Java provides a looping mechanism for objects of a collection. This looping mechanism is called a __________ loop.
+
+(a)While
+
+(b)For
+
+(c)For each
+
+(d)All of the above
+
+C
+
+A _________ can occur if a programmer allows an accessor method to return a reference to an array instance variable.
+
+(a)short circuit
+
+(b)privacy leak
+
+(c)partially filled array
+
+(d)syntax error
+
+B
+
+The name of the sorting algorithm that locates the smallest unsorted value in an array and places it in the next sorted position of the array is called:
+
+(a)bubble sort
+
+(b)merge sort
+
+(c)radix sort
+
+(d)selection sort
+
+D
+
+A value of an enumerated type is similar to a/an:
+
+(a)Instance variable
+
+(b)Object of a class
+
+(c)Named constant
+
+(d)None of the above
+
+C
+
+An array with more than one index is called a/an:
+
+(a)partially filled array
+
+(b)multidimensional array
+
+(c)bidirectional array
+
+(d)one dimensional array
+
+B
+
+A type of array in which different rows can have different number of columns is called a/an:
+
+(a)partially filled array
+
+(b)ragged array
+
+(c)initialized array
+
+(d)none of the above
+
+B
+
+A ________ loop is a good way to step through the elements of an array and perform some program action on each indexed variable.
+
+(a)while
+
+(b)do-while
+
+(c)for
+
+(d)all of the above
+
+C

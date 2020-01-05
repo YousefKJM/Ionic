@@ -1,0 +1,16 @@
+45 Ahmed ah1234 10 5
+9 Khalid ka7895 10 3
+8 Mohammed mh1234 9 6
+7 Faisal fa7895 0 0
+6 Hamza ha1234 1 9
+5 Yahya ya7895 5 14
+4 Mansour ms1234 6 19
+3 Omar 787895 7 3
+2 saleh sa1234 4 4
+1 tariq tr7895 3 5
+10 abdullah ab1234 2 7
+11 erfan er7895 1 6
+12 abdulrahman an1234 4 2
+13 mustafa 71897u5 7 1
+14 saad 2s234 6 1
+15 fahad f065y 5 7
